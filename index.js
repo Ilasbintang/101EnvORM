@@ -64,3 +64,4 @@ app.delete("/komik/:id", async (req, res) => {
   }
 })
 //1
+// semua
